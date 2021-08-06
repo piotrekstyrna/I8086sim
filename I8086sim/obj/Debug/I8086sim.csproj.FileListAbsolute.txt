@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\p2\I8086sim\I8086sim\bin\Debug\I8086sim.exe.config
+C:\Users\user\Desktop\p2\I8086sim\I8086sim\bin\Debug\I8086sim.exe
+C:\Users\user\Desktop\p2\I8086sim\I8086sim\bin\Debug\I8086sim.pdb
+C:\Users\user\Desktop\p2\I8086sim\I8086sim\obj\Debug\I8086sim.csprojAssemblyReference.cache
+C:\Users\user\Desktop\p2\I8086sim\I8086sim\obj\Debug\I8086sim.Form1.resources
+C:\Users\user\Desktop\p2\I8086sim\I8086sim\obj\Debug\I8086sim.Properties.Resources.resources
+C:\Users\user\Desktop\p2\I8086sim\I8086sim\obj\Debug\I8086sim.csproj.GenerateResource.cache
+C:\Users\user\Desktop\p2\I8086sim\I8086sim\obj\Debug\I8086sim.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\p2\I8086sim\I8086sim\obj\Debug\I8086sim.exe
+C:\Users\user\Desktop\p2\I8086sim\I8086sim\obj\Debug\I8086sim.pdb
